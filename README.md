@@ -75,21 +75,18 @@ This will generate the **Excel report** and save the generated **graphs** in the
 ## 📊 **Results and Graphs**
 
 The following graphs will be generated:
-
-1. **Bar Graph** for Detected People in Each Image 📉
-    ![Bar Graph](graphs/bar_graph.png)
     
-2. **Pie Chart** for Density Classification Distribution 🍰
-    ![Pie Chart](graphs/pie_chart.png)
+1. **Pie Chart** for Density Classification Distribution 🍰
+    ![Pie Chart]![Image](https://github.com/user-attachments/assets/66d41a89-dc19-484e-97a1-c22a882c8460)
 
-3. **Line Chart** for Trend of Detected People 🖥️
-    ![Line Chart](graphs/line_chart.png)
+2. **Line Chart** for Trend of Detected People 🖥️
+    ![Line Chart]![Image](https://github.com/user-attachments/assets/6260db61-bf54-400c-bd8f-138c10f56931)
 
-4. **Histogram** for Distribution of Detected People 📚
-    ![Histogram](graphs/histogram.png)
+3. **Histogram** for Distribution of Detected People 📚
+    ![Histogram]![Image](https://github.com/user-attachments/assets/83fef17d-0164-4ae0-a54f-1ec49b720beb)
 
-5. **Boxplot** for Spread of Detected People 📏
-    ![Boxplot](graphs/boxplot.png)
+4. **Boxplot** for Spread of Detected People 📏
+    ![Boxplot]![Image](https://github.com/user-attachments/assets/b7643b7c-69bf-4cc0-861d-d462272a6a4d)
 
 
 ## 🌐 **Run on Google Colab**
